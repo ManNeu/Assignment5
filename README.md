@@ -16,7 +16,7 @@ The application is built using VS Code. The app is made using of html, css, java
 ![day planner app screenshot](screenshotDayPlanner.png);
 
 # deployed link of app
-![a link](https://manneu.github.io/Assignment5/)
+(https://manneu.github.io/Assignment5/)
 
 # Contact
 Manish Neupane

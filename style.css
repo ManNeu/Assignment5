@@ -1,3 +1,4 @@
+
 *{
     margin: 0px;
     padding: 0px;
@@ -25,13 +26,20 @@ body{
 h4{
     margin: 10px 0;
 }
-.task {
+.todo-form{
     width: 100%;
     background: rgba(255,255, 255, 0.5);
     padding: 18px;
     margin: 6px 0;
     overflow: hidden;
 
+}
+ .todo-form input{
+    width: 80%;
+    
+}
+h3{
+    text-align: right;
 }
 .task i{
     float: right;
